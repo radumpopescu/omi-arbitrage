@@ -15,12 +15,10 @@ Current result can be also manually invoked by sending the `/status` command to 
 Example response:
 
 ```
-   $100: Asc->Gate: -4.34% || Gate-Asc: 3.49%
-   $500: Asc->Gate: -4.39% || Gate-Asc: 3.39%
-  $1000: Asc->Gate: -4.41% || Gate-Asc: 3.25%
-  $5000: Asc->Gate: -5.32% || Gate-Asc: 1.88%
- $10000: Asc->Gate: -5.68% || Gate-Asc: 1.42%
- $20000: Asc->Gate: -6.09% || Gate-Asc: -0.0183%
- $50000: Not enough Volume
-$100000: Not enough Volume
+   $100: Asc->Gate: -4.42% || Gate-Asc: 4.05%
+   $500: Asc->Gate: -4.74% || Gate-Asc: 3.92%
+  $1000: Asc->Gate: -5.11% || Gate-Asc: 3.66%
+  $5000: Asc->Gate: -5.73% || Gate-Asc: 2.09%
+ $10000: Asc->Gate: -6.06% || Gate-Asc: 1.53%
+ $25000: Asc->Gate: -6.80% || Gate-Asc: -0.497%
 ```

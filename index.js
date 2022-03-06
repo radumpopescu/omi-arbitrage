@@ -5,7 +5,7 @@ require("dotenv").config();
 const { getGate, getAscendex } = require("./api.js");
 const { getFirstDiff, getResults } = require("./helpers.js");
 
-const volumes = [100, 500, 1000, 5000, 10000, 20000, 50000, 100000];
+const volumes = [100, 500, 1000, 5000, 10000, 25000];
 const limits = [2, 8];
 
 const chatIds = process.env.CHAT_IDS.split(",");
